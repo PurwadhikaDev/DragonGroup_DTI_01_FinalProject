@@ -25,7 +25,7 @@ Olist significantly impacts the Brazilian e-commerce landscape by enabling small
 
 #### Problem Statement
 
-Olist's average quarterly revenue of approximately BRL 156,086 from 2016 to 2018 represents a minor share of the Brazilian e-commerce market, which was valued at USD 19.5 billion in 2017, USD 20.2 billion in 2018, and USD 23.7 billion in 2019. Despite the market's growth, Olist has struggled to increase its revenue and customer base, with data from 2016 to 2018 showing that 97% of customers make only one purchase and do not return, leaving only 3% as repeat buyers. This low retention rate significantly impacts Olist’s growth and revenue potential, indicating a misalignment between the products offered and customer needs, likely due to the lack of an effective recommendation system.
+Olist's average quarterly revenue of approximately BRL 171,170 from 2016 to 2018 represents a minor share of the Brazilian e-commerce market, which was valued at USD 19.5 billion in 2017, USD 20.2 billion in 2018, and USD 23.7 billion in 2019. Despite the market's growth, Olist has struggled to increase its revenue and customer base, with data from 2016 to 2018 showing that 97% of customers make only one purchase and do not return, leaving only 3% as repeat buyers. This low retention rate significantly impacts Olist’s growth and revenue potential, indicating a misalignment between the products offered and customer needs, likely due to the lack of an effective recommendation system.
 
 #### Goals
 
